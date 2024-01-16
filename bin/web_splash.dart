@@ -1,0 +1,1 @@
+import 'package:web_splash/web_splash.dart';void main() async {  WebSplash().create();}
