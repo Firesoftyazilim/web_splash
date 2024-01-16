@@ -2,7 +2,7 @@
 
 Bu kütüphane Flutter web de animasyonlu bir açılış sayfası eklemek için yapılmıştır.
 
-![](https://github.com/Firesoftyazilim/web_splash/blob/main/web_splash.gif)
+![web_splash](https://github.com/Firesoftyazilim/web_splash/blob/main/web_splash.gif)
 
 
 
@@ -12,14 +12,18 @@ Bu kütüphane Flutter web de animasyonlu bir açılış sayfası eklemek için 
 Terminalde çalıştırın.
 
 ```bash
-flutter pub add il_ilce
+flutter pub add web_splash
 ```
 
 ## Kullanım
 Terminalde çalıştırın.
 
 ```bash
-dart web_splash
+dart run web_splash
+```
+or
+```bash
+flutter pub run web_splash
 ```
 
 
