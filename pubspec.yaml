@@ -1,11 +1,12 @@
 name: web_splash
 description: "Quickly integrate an animated splash screen in Flutter web"
 homepage: https://github.com/Firesoftyazilim/web_splash
-version: 1.0.3
+version: 1.0.4
 
 #flutter packages pub publish
 authors:
-  - Firesoft<firesoftyazilim@gmail.com>
+  - Firesoft <firesoftyazilim@gmail.com>
+
 environment:
   sdk: '>=3.2.4 <4.0.0'
   flutter: ">=1.17.0"
